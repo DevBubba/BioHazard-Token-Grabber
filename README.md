@@ -43,7 +43,7 @@
 - `Auto Update`🟡
 - `Safe Mode For Testing Purposes`🟡
 - `Discord Injection`🔴
-- `Compiled Logger Works On Macbook`🔴
+- `Compiled Logger Works On MacBook`🔴
 
 🟢 = Working  | 🟡 = To Do  | 🔴 = Not Working
 
