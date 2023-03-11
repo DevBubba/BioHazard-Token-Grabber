@@ -2,7 +2,7 @@
 
 ### All Notable Changes To BioHazard Token Grabber (This Project) Will Be Documented In This File
 
-## 🔑 [BioHazard-Token-Grabber V2.0](https://github.com/DevBubba/Batch-Obfuscator/releases/tag/V2.1) - 2023-03-11
+## 🔑 [BioHazard-Token-Grabber V2.0](https://github.com/DevBubba/BioHazard-Token-Grabber/releases/tag/2.0) - 2023-03-11
 
 ### Super Simple And Easy Yet Advanced Discord Token Grabber Made In Python With Compiler!
 
