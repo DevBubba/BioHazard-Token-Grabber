@@ -82,8 +82,7 @@
 
 ## <a id="changelog"></a> 📚 〢 Changelog 
 
-All Notable Changes To BioHazard-Token-Grabber (This Project) Will Be Documented In This [File](https://github.com/DevBubba/BioHazard-Token-Grabber
-/blob/main/CHANGELOG.md)
+All Notable Changes To BioHazard-Token-Grabber (This Project) Will Be Documented In This [File](https://github.com/DevBubba/BioHazard-Token-Grabber/blob/main/CHANGELOG.md)
 
 
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
