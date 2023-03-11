@@ -1,4 +1,4 @@
-<img src="img/BannerPreview.png" width="100%" height="100%" />
+<img src="img/Banner.png" width="100%" height="100%" />
 
 <div align="center">
     <img src="https://img.shields.io/github/languages/top/DevBubba/BioHazard-Token-Grabber?color=%23000000">
