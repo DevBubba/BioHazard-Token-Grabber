@@ -38,6 +38,9 @@
 
 - `Logs Token, Pc Info, And Account Info`🟢
 - `Compiler (.exe)`🟢
+- `Works With All Windows Versions`🟢
+- `Free Forever`🟢
+- `Not Detected By Antiviruses`🟢
 - `Compiled Logger Works On All Versions Of Windows`🟢
 - `Make An Embebed Version`🟡
 - `Auto Update`🟡
