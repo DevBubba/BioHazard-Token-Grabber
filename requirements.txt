@@ -1,4 +1,4 @@
-pycryptodome==3.14.1
+pycryptodome==3.19.1
 colorama
 requests
 piphttps==1
